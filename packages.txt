@@ -1,0 +1,10 @@
+PACKAGES AND MODULES
+
+1) pyttsx3
+2) speechRecognition
+3) wikipedia
+4) datetime
+5) webbrowser
+6) smtplib
+7) "pipwin"
+ 	- pyaudio
